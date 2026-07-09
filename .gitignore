@@ -73,3 +73,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# asset which not really used in game 
+Content/Fab/Ignore/*
